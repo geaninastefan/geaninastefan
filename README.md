@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geaninastefan
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on unfolding proteins structure protein
+- 💞️ I’m looking to collaborate on folding/unfolding proteins structure project
 - 📫 How to reach me ...
 <!---
 geaninastefan/geaninastefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
